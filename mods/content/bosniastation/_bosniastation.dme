@@ -1,0 +1,9 @@
+#ifndef MODPACK_BOSNIA
+#define BOSNIA
+// BEGIN_INCLUDE
+#include "_bosniastation.dm"
+#include "armor_rework.dm"
+#include "organ_rework.dm"
+#include "organ_tweaks.dm"
+// END_INCLUDE
+#endif
